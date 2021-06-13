@@ -1,0 +1,14 @@
+Step 1.	Run SAS codes to Import data and merge (In SAS software). Codes available in 
+	SAS_CODES_FOR_DATA_IMPORT.
+
+Step 2.	The output generated will be a dataset called Accident_Final.
+
+Step 3.	The Accident_Final dataset is to be imported to R. The code is available in the folder R MODEL CODE.
+
+Step 4.	C5.R is the C5.0 model run code.
+
+Step 5.	Accident_Analysis.R is the main code which runs on NaiveBayes methodology. Bayesian methodology has 
+	been selected post various checks on models.
+
+Step 6. Various comments have been included in the code describing the work done.
+
